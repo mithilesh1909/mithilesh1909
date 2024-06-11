@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Mithilesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://imgs.search.brave.com/fW1LvaMlCZE1UZWvChoE7Q35bawWKP3I7V9YbRAGfEQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9oZWxs/b2dpZ2dsZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9zaXRl/cy83LzIwMTYvMDMv/MjcvY2F0LWNvZGlu/Zy5qcGc_cXVhbGl0/eT04MiZzdHJpcD0x/JnJlc2l6ZT02NDAs/MzYw" align="center">
+<img src="https://imgs.search.brave.com/fW1LvaMlCZE1UZWvChoE7Q35bawWKP3I7V9YbRAGfEQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9oZWxs/b2dpZ2dsZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9zaXRl/cy83LzIwMTYvMDMv/MjcvY2F0LWNvZGlu/Zy5qcGc_cXVhbGl0/eT04MiZzdHJpcD0x/JnJlc2l6ZT02NDAs/MzYw" align="right">
 
 - 🌱 I’m currently learning **mongodB,golang**
 

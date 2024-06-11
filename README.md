@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mittuayodhya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UI4REhfjzuOyrvkw0Ysiw8mZomoE0pBF/view?usp=sharing](https://drive.google.com/file/d/1UI4REhfjzuOyrvkw0Ysiw8mZomoE0pBF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UI4REhfjzuOyrvkw0Ysiw8mZomoE0pBF/view?usp=sharing](http://lnkiy.in/resume_mine)
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 

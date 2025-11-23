@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Node Js, Angular Js**
 
-- 📫 How to reach me **mittuayodhya@gmail.com**
+- 📫 How to reach me **mithileshsinghayodhya05@gmail.com**
 
-- 📄 Here's my resume [⬇️](https://drive.google.com/file/d/1N2vy4BdPKNc0zWSLmB2bUBPEf2sl9E-B/view?usp=drive_link)
+- 📄 Here's my resume [⬇️](https://drive.google.com/file/d/1wiUtWhf_bM5wHVhkkbzdlJ24O7E1AeAA/view?usp=sharing)
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 

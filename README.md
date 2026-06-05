@@ -1,19 +1,28 @@
-<h1 align="center">Hello 👋, I'm Mithilesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://imgs.search.brave.com/fW1LvaMlCZE1UZWvChoE7Q35bawWKP3I7V9YbRAGfEQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9oZWxs/b2dpZ2dsZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9zaXRl/cy83LzIwMTYvMDMv/MjcvY2F0LWNvZGlu/Zy5qcGc_cXVhbGl0/eT04MiZzdHJpcD0x/JnJlc2l6ZT02NDAs/MzYw" align="right">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/mithilesh1909/mithilesh1909/main/mithilesh.svg" alt="Mithilesh" />
+</h1>
 
-- 🌱 I’m currently learning **Node Js, Angular Js**
+## Hey! 👋
+I'm Mithilesh, a 20 years old web developer from India.
 
-- 📫 How to reach me **mithileshsinghayodhya05@gmail.com**
+- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
-- 📄 Here's my resume [⬇️](https://drive.google.com/file/d/1wiUtWhf_bM5wHVhkkbzdlJ24O7E1AeAA/view?usp=sharing)
+- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
+- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
++ a lot more ;)
 
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
++ a lot more :D
+
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@martonlederer](./) on Discord

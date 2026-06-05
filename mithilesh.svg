@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 120" width="860" height="120">
+  <defs>
+    <style>
+      .letter {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 82px;
+        font-weight: 700;
+        fill: transparent;
+        stroke: #e2e8f0;
+        stroke-width: 1.5;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        stroke-dasharray: 320;
+        stroke-dashoffset: 320;
+      }
+
+      .l1 { animation: draw 0.7s cubic-bezier(0.4,0,0.2,1) 0.0s forwards; }
+      .l2 { animation: draw 0.7s cubic-bezier(0.4,0,0.2,1) 0.1s forwards; }
+      .l3 { animation: draw 0.7s cubic-bezier(0.4,0,0.2,1) 0.2s forwards; }
+      .l4 { animation: draw 0.7s cubic-bezier(0.4,0,0.2,1) 0.3s forwards; }
+      .l5 { animation: draw 0.7s cubic-bezier(0.4,0,0.2,1) 0.4s forwards; }
+      .l6 { animation: draw 0.7s cubic-bezier(0.4,0,0.2,1) 0.5s forwards; }
+      .l7 { animation: draw 0.7s cubic-bezier(0.4,0,0.2,1) 0.6s forwards; }
+      .l8 { animation: draw 0.7s cubic-bezier(0.4,0,0.2,1) 0.7s forwards; }
+      .l9 { animation: draw 0.7s cubic-bezier(0.4,0,0.2,1) 0.8s forwards; }
+
+      @keyframes draw {
+        0%   { stroke-dashoffset: 320; opacity: 0; fill: transparent; }
+        20%  { opacity: 1; }
+        70%  { stroke-dashoffset: 0; fill: transparent; }
+        100% { stroke-dashoffset: 0; fill: #e2e8f0; }
+      }
+
+      .cursor {
+        fill: #94a3b8;
+        animation: blink 1s step-end 1.8s infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+
+      .underline {
+        stroke: #475569;
+        stroke-width: 1;
+        fill: none;
+        stroke-dasharray: 760;
+        stroke-dashoffset: 760;
+        animation: drawLine 0.6s ease 1.2s forwards;
+      }
+      @keyframes drawLine {
+        to { stroke-dashoffset: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="860" height="120" fill="none"/>
+
+  <!-- Letters -->
+  <text class="letter l1" x="78"  y="60">M</text>
+  <text class="letter l2" x="170" y="60">I</text>
+  <text class="letter l3" x="248" y="60">T</text>
+  <text class="letter l4" x="330" y="60">H</text>
+  <text class="letter l5" x="418" y="60">I</text>
+  <text class="letter l6" x="496" y="60">L</text>
+  <text class="letter l7" x="578" y="60">E</text>
+  <text class="letter l8" x="663" y="60">S</text>
+  <text class="letter l9" x="748" y="60">H</text>
+
+  <!-- Blinking cursor -->
+  <text class="cursor" x="808" y="62" font-family="'Courier New', monospace" font-size="82px" font-weight="700" dominant-baseline="middle">|</text>
+
+  <!-- Underline -->
+  <line class="underline" x1="40" y1="103" x2="800" y2="103"/>
+</svg>

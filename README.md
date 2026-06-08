@@ -19,5 +19,5 @@ I'm Mithilesh, a 20 years old web developer from India.
 + a lot more :D
 
 ## Contact
-- Let's start a convo [HERE](mailto:your@email.com)
+- Let's start a convo [HERE](mailto:mithileshsingayodhya05@email.com)
 -  I'm also pretty active on [Linkedin](https://www.linkedin.com/in/mithilesh-singh-7346192a1)

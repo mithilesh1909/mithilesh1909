@@ -4,11 +4,8 @@
 
 ## Hey! 👋
 I'm Mithilesh, a 20 years old web developer from India.
-
 - 🦔 Finetuned LLMs at [Scale AI](https://scale.com/) 
-
 - 👨‍💻 Working at [Newton School](https://www.newtonschool.co/) 
-
 + a lot more ;)
 
 ## Skills
@@ -21,3 +18,9 @@ I'm Mithilesh, a 20 years old web developer from India.
 ## Contact
 - Let's start a convo [HERE](mailto:mithileshsingayodhya05@email.com)
 -  I'm also pretty active on [Linkedin](https://www.linkedin.com/in/mithilesh-singh-7346192a1)
+
+---
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mithilesh1909&style=flat-square&color=ff69b4&label=visitors" alt="profile views" />
+</p> -->

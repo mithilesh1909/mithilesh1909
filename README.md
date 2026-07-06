@@ -70,20 +70,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mithilesh1909&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mithilesh1909&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=mithilesh1909&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=mithilesh1909&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithilesh1909&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mithilesh1909&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithilesh1909&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=mithilesh1909&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithilesh1909&theme=redical&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithilesh1909&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
 </p>
 
 <p align="center">
@@ -92,4 +92,4 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/mithilesh1909">Mithilesh</a> — thanks for stopping by!</p>
+<p align="center">⭐️ From <a href="https://github.com/mithilesh1909">mithilesh1909</a> — thanks for stopping by!</p>
